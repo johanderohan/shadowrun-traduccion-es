@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/super-nintendo/shadowrun)**.
+
 Traducción al **español de España** de *Shadowrun* (Super Nintendo, 1993), el
 RPG ciberpunk de Beam Software publicado por Data East que nunca salió en
 español. Se ha traducido desde la versión **estadounidense en inglés**, que es
