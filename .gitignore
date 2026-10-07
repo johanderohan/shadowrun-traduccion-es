@@ -1,0 +1,10 @@
+# Nunca subir el juego ni nada derivado de su contenido
+*.sfc
+*.smc
+*.zip
+*.7z
+*.rar
+*.jsonl
+traduccion/
+trabajo/
+build*/
